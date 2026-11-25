@@ -1,0 +1,9 @@
+{
+  "id": "mac-agenda",
+  "name": "Mac Agenda",
+  "version": "0.5.0",
+  "minAppVersion": "1.4.0",
+  "description": "A calm day view: Apple Calendar events and Apple Reminders next to a dedicated note for each day (macOS).",
+  "author": "Fabian Meyer",
+  "isDesktopOnly": true
+}
